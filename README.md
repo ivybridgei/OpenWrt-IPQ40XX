@@ -1,4 +1,4 @@
-# OpenWrt for IPQ40XX routers
+# Build OpenWrt for IPQ40XX routers
 
 A template for building OpenWrt with GitHub Actions 
 
