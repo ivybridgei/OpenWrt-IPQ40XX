@@ -17,5 +17,5 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #sed -i 's/dnsmasq/dnsmasq-full/g' include/target.mk
-echo 'src-git openwrt-packages https://github.com/VergilGao/openwrt-packages.git' >> feeds.conf.default
-#echo 'src-git NueXini_Packages https://github.com/NueXini/NueXini_Packages.git' >> feeds.conf.default
+#echo 'src-git openwrt-packages https://github.com/VergilGao/openwrt-packages.git' >> feeds.conf.default
+echo 'src-git NueXini_Packages https://github.com/NueXini/NueXini_Packages.git' >> feeds.conf.default
